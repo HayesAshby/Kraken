@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278157684918",
+    "project_id": "firebase-kraken"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278157684918:android:e2a0edbcf107e9d4",
+        "android_client_info": {
+          "package_name": "com.kraken.standalone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278157684918-qm7spsu98d8memdp9ivnfh8fpmgubiqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RtCT8V-89MRQk3J7I7rz5ZEq76tm06E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
